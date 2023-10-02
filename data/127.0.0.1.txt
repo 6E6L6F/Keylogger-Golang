@@ -1,0 +1,6 @@
+2023/10/1 - 20:12:11 : Message : Im Connected | Username : elf
+2023/10/1 - 20:12:40 : Message : salam
+2023/10/1 - 20:14:11 : Message : Im Connected | Username : elf
+2023/10/1 - 20:14:12 : Message : chetori
+2023/10/1 - 20:14:14 : Message : kiri
+

@@ -34,4 +34,6 @@
 	Set Api id ,Api Hash , Bot Token In line 8 , 9 , 10
 	Command : python3 bot_panel.py
 
-## Panel Bot Telegram![](https://github.com/6E6L6F/Keylogger-Golang/blob/main/Screenshot%202023-10-02%2023:49:58.png)
+## Panel Bot Telegram
+##
+![](https://github.com/6E6L6F/Keylogger-Golang/blob/main/Screenshot%202023-10-02%2023:49:58.png)

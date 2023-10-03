@@ -16,7 +16,7 @@
 
 ## Server Side
 	1- Install Python V3
-	2- Install Liberys
+	2- Install Libraries
 	3- Run File Server.py
 	4- Config Panel Bot Telegram And running 
 
